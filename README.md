@@ -1,9 +1,8 @@
-## Scxipted
-
+### Scxipted
 ---
 
-Hey, I'm Scxipted. 👋
-Portuguese Developer. 🇵🇹
+Hey, I'm Scxipted. 👋  
+Portuguese Developer. 🇵🇹  
 
 ---
 
