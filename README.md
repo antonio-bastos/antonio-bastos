@@ -10,6 +10,7 @@ Portuguese Developer. 🇵🇹
 ---
 
 !["Banner"]()
+<img height="250" width="250" src="https://cdn.discordapp.com/attachments/614991541995438083/809925542849675284/SkillsSep.png" />
 !["Banner"](https://cdn.discordapp.com/attachments/614991541995438083/809925542849675284/SkillsSep.png)
  
 # What I specialize in
