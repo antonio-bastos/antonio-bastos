@@ -5,7 +5,7 @@
 Hey, I'm Scxipted. 👋
 Portuguese Developer. 🇵🇹
 
---
+---
 
 
 
