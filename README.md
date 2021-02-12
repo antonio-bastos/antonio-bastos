@@ -6,19 +6,15 @@
 Hey, I'm Scxipted. 👋  
 Portuguese Developer. 🇵🇹  
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
 ---
-
-!["Banner"]()
-<img height="100" width="450" src="https://cdn.discordapp.com/attachments/614991541995438083/809925542849675284/SkillsSep.png" />
-!["Banner"](https://cdn.discordapp.com/attachments/614991541995438083/809925542849675284/SkillsSep.png)
  
 # What I specialize in
 ---
 textext
  
- 
-!["Banner"](https://cdn.discordapp.com/attachments/614991541995438083/809925542052233236/ContactSep.png)
 # Get In Contact
 ---
 
