@@ -1,10 +1,10 @@
-### Scxipted
----
+# Scxipted
+-
 
 Hey, I'm Scxipted. 👋  
 Portuguese Developer. 🇵🇹  
 
----
+-
 
 
 
