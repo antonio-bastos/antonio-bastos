@@ -15,7 +15,7 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 - JavaScript,
 - HTML/CSS,
 - Python,
-- LuaU. <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />
+- LuaU. <img height="10" width="10" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />
  
 ## Get In Contact
 
