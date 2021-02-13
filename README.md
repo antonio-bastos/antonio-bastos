@@ -24,7 +24,7 @@ This text will be hidden
  
 <details>
  <summary>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+  <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
   Top Programming Languages</summary>
  <br/>
  
@@ -40,7 +40,7 @@ This text will be hidden
 [![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
 
-## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" /> 
+## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9027_blobmail.png" /> 
  
 For any inquiries or questions, drop me a message on:
  
