@@ -23,6 +23,7 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
   Top Programming Languages <img height="20" width="20" src="https://emoji.gg/assets/emoji/5473_ablobkeyboard.gif" />
  </summary> 
   -
+ 
 [![Scxipted's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
 </details>
 
@@ -31,6 +32,7 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
   GitHub Statistics <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
  </summary>  
   -
+ 
 [![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
 
