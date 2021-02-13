@@ -20,7 +20,9 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
  
  My GitHub Statistics: 
  
-https://github-readme-stats.vercel.app/api?username=Scxipted
+[![Scxipted's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
+
+
   
  My most used programming languages on github:
   
