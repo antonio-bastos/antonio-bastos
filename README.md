@@ -23,9 +23,9 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
   GitHub Statistics <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
  </summary>
  
-[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
 ---
-[![My github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9231_Message_Sent.png" /> 
