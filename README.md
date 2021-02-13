@@ -12,9 +12,9 @@ Portuguese Developer.
  
 I genuinely enjoy learning new programming languages, I currently specialise in:
  
-- JavaScript,
-- HTML/CSS,
-- Python,
+- JavaScript, <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+- HTML5/CSS, <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+- Python, <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
 - LuaU. <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" />
  
 ## Get In Contact
