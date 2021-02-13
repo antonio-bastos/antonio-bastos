@@ -24,7 +24,7 @@ This text will be hidden
  
 <details>
  <summary>
-  Top Programming Languages <img height="20" width="20" src="https://emoji.gg/assets/emoji/9950_WumpusKeyboardSlam.gif" />
+  Top Programming Languages <img height="20" width="20" src="https://emoji.gg/assets/emoji/5473_ablobkeyboard.gif" />
  </summary>
  <br/>
  
@@ -40,13 +40,13 @@ This text will be hidden
 [![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
 
-## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9027_blobmail.png" /> 
+## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9231_Message_Sent.png" /> 
  
 For any inquiries or questions, drop me a message on:
  
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted,
+- <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/1821_roblox_squircle_icon.png" /> Devforum: Scxipted
 
 Most active on:
 
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#5677,
+- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#5677
