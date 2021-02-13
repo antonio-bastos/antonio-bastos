@@ -1,11 +1,11 @@
-<img height="150" width="450" src="https://data.whicdn.com/images/302038322/original.gif" />
+<img height="150" width="450" src="https://media1.tenor.com/images/214f9c188e78e793fb4406ad7ab1a252/tenor.gif?itemid=14885028" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
 Hey, I'm Scxipted also known as Antonio/Tony. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
 Just an average portuguese developer, nothing special. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />    
   
-Currently listening to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
+Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
  
