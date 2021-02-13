@@ -1,4 +1,4 @@
-<img height="250" width="550" src="https://data.whicdn.com/images/302038322/original.gif" />
+<img height="150" width="450" src="https://data.whicdn.com/images/302038322/original.gif" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
@@ -30,11 +30,11 @@ Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/e
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9231_Message_Sent.png" /> 
  
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/7928_ani_arrow_right.gif" /> For any inquiries or questions, drop me a message:
+<img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> For any inquiries or questions, drop me a message:
  
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/1821_roblox_squircle_icon.png" /> Devforum: Scxipted
 
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/7928_ani_arrow_right.gif" /> Most active on:
+<img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> Most active on:
 
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#5677
