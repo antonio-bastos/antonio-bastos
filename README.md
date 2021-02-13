@@ -1,6 +1,7 @@
-<div align="center">!["Banner"](https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/7/c/2/7c2aa4aacb769fab0f41129470ddc3807b520a51_2_690x172.png)</div>
+<div align="center"></div>
+ !["Banner"](https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/7/c/2/7c2aa4aacb769fab0f41129470ddc3807b520a51_2_690x172.png)
  
-Scxipted
+## Scxipted
  
 Hey, I'm Scxipted. 👋  
 Portuguese Developer. 🇵🇹  
@@ -8,10 +9,13 @@ Portuguese Developer. 🇵🇹
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
  
-## What I specialize in
-
+## Experience
  
-textext
+I genuinely enjoy learning new programming languages, I currently specialise in:
+- JavaScript,
+- HTML & CSS,
+- Python,
+- LuaU,
  
 ## Get In Contact
 
