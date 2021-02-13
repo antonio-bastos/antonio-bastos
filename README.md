@@ -1,4 +1,4 @@
-<img height="150" width="450" src="https://data.whicdn.com/images/302038322/original.gif" />
+<img height="150" width="550" src="https://data.whicdn.com/images/302038322/original.gif" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
@@ -28,7 +28,7 @@ Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/e
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
 
-## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9231_Message_Sent.png" /> 
+## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/8200_happytalkingonthephone.png" /> 
  
 <img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> For any inquiries or questions, drop me a message:
  
