@@ -24,7 +24,7 @@ This text will be hidden
  
 <details>
  <summary>
-  <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
+  <img height="20" width="20" src="https://emoji.gg/assets/emoji/9950_WumpusKeyboardSlam.gif" />
   Top Programming Languages</summary>
  <br/>
  
@@ -33,7 +33,7 @@ This text will be hidden
  
  <details>
  <summary>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+  <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
   GitHub Statistics</summary>
  <br/>
  
