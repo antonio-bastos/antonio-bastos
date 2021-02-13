@@ -24,8 +24,8 @@ This text will be hidden
  
 <details>
  <summary>
-  <img height="20" width="20" src="https://emoji.gg/assets/emoji/9950_WumpusKeyboardSlam.gif" />
-  Top Programming Languages</summary>
+  Top Programming Languages <img height="20" width="20" src="https://emoji.gg/assets/emoji/9950_WumpusKeyboardSlam.gif" />
+ </summary>
  <br/>
  
 [![Scxipted's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
@@ -33,8 +33,8 @@ This text will be hidden
  
  <details>
  <summary>
-  <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
-  GitHub Statistics</summary>
+  GitHub Statistics <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
+ </summary>
  <br/>
  
 [![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
