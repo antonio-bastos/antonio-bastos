@@ -17,6 +17,10 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> HTML5/CSS,
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> Python, 
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" /> LuaU.
+ 
+ My GitHub Statistics: 
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
  My most used programming languages on github:
   
