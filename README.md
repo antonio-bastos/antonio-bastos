@@ -4,7 +4,8 @@
  
 Hey, I'm Scxipted also known as Antonio/Tony. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
 Just an average portuguese developer, nothing special. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />    
-  
+Profile Picture from [Guweiz](https://www.deviantart.com/guweiz/gallery)           
+ 
 Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
