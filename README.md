@@ -20,12 +20,12 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
  
  My GitHub Statistics: 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Scxipted)
   
  My most used programming languages on github:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
+https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" /> 
  
 For any inquiries or questions, drop me a message on:
