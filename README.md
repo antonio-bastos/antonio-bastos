@@ -26,6 +26,6 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
  
 For any inquiries or questions, drop me a message on:
  
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/3423_twitter_gif.gif" /> Twitter: @Scxipted,
+- <img height="20" width="25" src="https://emoji.gg/assets/emoji/3423_twitter_gif.gif" /> Twitter: @Scxipted,
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" /> Discord: tonyai#5677,
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/3561_roblox_spin.gif" /> Devforum: Scxipted
