@@ -18,22 +18,14 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> Python, 
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" /> LuaU.
  
-<details>
- <summary>
-  Top Programming Languages <img height="20" width="20" src="https://emoji.gg/assets/emoji/5473_ablobkeyboard.gif" />
- </summary>        
-     
-  
-[![Scxipted's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
-</details>
-
  <details>
  <summary>
   GitHub Statistics <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
- </summary>         
-     
-     
-[![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
+ </summary>
+ 
+[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
+---
+[![My github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/9231_Message_Sent.png" /> 
