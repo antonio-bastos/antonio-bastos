@@ -18,31 +18,27 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> Python, 
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" /> LuaU.
  
- 
 [details="Summary"]
 This text will be hidden
 [/details]
-
- 
  
 <details>
  <summary>
-  <img src="https://discord.com/assets/1b3817ca3b1dc991baefdb3079ed0624.svg" align="center" width="25" /> 
-  Top Languages</summary>
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+  Top Programming Languages</summary>
  <br/>
-    
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Scxipted&hide=Shell&langs_count=10)](https://github.com/Scxipted)
+ 
+[![Scxipted's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
 </details>
  
- My GitHub Statistics: 
+ <details>
+ <summary>
+  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+  GitHub Statistics</summary>
+ <br/>
  
 [![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
-
-
-  
- My most used programming languages on github:
-  
-[![Scxipted's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
+</details>
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" /> 
  
