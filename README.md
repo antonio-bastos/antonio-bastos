@@ -1,8 +1,8 @@
-!["Banner"](https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/7/c/2/7c2aa4aacb769fab0f41129470ddc3807b520a51_2_690x172.png)
-
 <div align="center">
-## Scxipted
+!["Banner"](https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/7/c/2/7c2aa4aacb769fab0f41129470ddc3807b520a51_2_690x172.png)
 </div>
+ 
+Scxipted
  
 Hey, I'm Scxipted. 👋  
 Portuguese Developer. 🇵🇹  
