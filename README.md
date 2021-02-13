@@ -6,7 +6,7 @@ Hey, I'm Scxipted also known as Antonio/Tony. <img height="20" width="20" src="h
 I'm a Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" /> 
 Just an average developer, nothing special.
   
-Currently listening to: <img height="20" width="20" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
+Currently listening to:     <img height="20" width="20" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
  
