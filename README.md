@@ -9,7 +9,7 @@ Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/e
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
  
-## Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/6093_Animated_Checkmark.pn" />
+## Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/6093_Animated_Checkmark.png" />
  
 I genuinely enjoy learning new programming languages, I currently specialise in:
  
