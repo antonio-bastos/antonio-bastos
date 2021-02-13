@@ -6,7 +6,7 @@
 Hey, I'm Scxipted. 👋  
 Portuguese Developer. 🇵🇹  
 
-[![Spotify](https://spotify.scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/Scxipted)
+[![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
 
 --
