@@ -1,4 +1,4 @@
-!["Banner"](https://cdn.discordapp.com/attachments/710196610038104064/809978832940564501/BomvQu7eB4wAAAAAElFTkSuQmCC.png)
+<img height="500" width="500" src="https://cdn.discordapp.com/attachments/710196610038104064/809978832940564501/BomvQu7eB4wAAAAAElFTkSuQmCC.png" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
