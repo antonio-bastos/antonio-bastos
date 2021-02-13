@@ -11,7 +11,7 @@ Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/e
  
 ## Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/1169_ablobwobwork.gif" />
  
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/7928_ani_arrow_right.gif" /> I genuinely enjoy learning new programming languages, I currently specialise in:
+<img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> I genuinely enjoy learning new programming languages, I currently specialise in:
  
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> JavaScript,
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> HTML5/CSS,
