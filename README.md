@@ -2,14 +2,13 @@
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
-Hey, I'm Scxipted. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
-Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />
+Hey, I'm Scxipted also known as Antonio/Tony. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
+I'm a Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />
+Just an average developer, nothing special.
   
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> Currently listening to: 
+Currently listening to: <img height="20" width="20" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
- 
-Just an average developer. Nothing special.
  
 ## Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/1169_ablobwobwork.gif" />
  
