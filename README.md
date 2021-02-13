@@ -24,6 +24,16 @@ This text will be hidden
 [/details]
 
  
+ 
+<details>
+ <summary>
+  <img src="https://discord.com/assets/1b3817ca3b1dc991baefdb3079ed0624.svg" align="center" width="25" /> 
+  Top Languages</summary>
+ <br/>
+    
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Scxipted&hide=Shell&langs_count=10)](https://github.com/Scxipted)
+</details>
+ 
  My GitHub Statistics: 
  
 [![Scxipted's github statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
