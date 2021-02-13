@@ -12,7 +12,7 @@ Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emo
  
 ## Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/1169_ablobwobwork.gif" />
  
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> I genuinely enjoy learning new programming languages, I currently specialise in:
+I genuinely enjoy learning new programming languages, I currently specialise in:
  
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> JavaScript,
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> HTML5/CSS,
@@ -31,11 +31,11 @@ Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emo
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/8200_happytalkingonthephone.png" /> 
  
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> For any inquiries or questions, drop me a message:
+For any inquiries or questions, drop me a message:
  
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/1821_roblox_squircle_icon.png" /> Devforum: Scxipted
 
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/9128_GS_arrow.png" /> Most active on:
+Most active on:
 
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#5677
