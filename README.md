@@ -29,7 +29,6 @@ This text will be hidden
  <br/>
 [![Scxipted's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
 </details>
-
  <details>
  <summary>
   GitHub Statistics <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
