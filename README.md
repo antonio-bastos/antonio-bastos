@@ -3,7 +3,7 @@
 ## Scxipted
  
 Hey, I'm Scxipted. 👋  
-Portuguese Developer. <img height="20" width="20" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png" />
+Portuguese Developer. <img height="20" width="35" src="https://cdn.countryflags.com/thumbs/portugal/flag-400.png" />
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
