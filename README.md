@@ -7,7 +7,8 @@ Portuguese Developer. <img height="20" width="20" src="https://emoji.gg/assets/e
  
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
-
+ 
+Just an average developer. Nothing special.
  
 ## Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/1169_ablobwobwork.gif" />
  
