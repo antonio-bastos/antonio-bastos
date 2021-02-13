@@ -3,7 +3,7 @@
 ## Scxipted
  
 Hey, I'm Scxipted. 👋  
-Portuguese Developer. <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[Lua].svg" />
+Portuguese Developer.
  
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
@@ -13,9 +13,9 @@ Portuguese Developer. <img height="32" width="32" src="https://cdn.jsdelivr.net/
 I genuinely enjoy learning new programming languages, I currently specialise in:
  
 - JavaScript,
-- HTML & CSS,
+- HTML/CSS,
 - Python,
-- LuaU,
+- LuaU. <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/simpleicons.svg" />
  
 ## Get In Contact
 
