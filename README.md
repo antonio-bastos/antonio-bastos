@@ -26,6 +26,6 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
  
 For any inquiries or questions, drop me a message on:
  
-- 
-- 
-- 
+- Twitter: @Scxipted,
+- Discord: tonyai#5677,
+- Devforum: Scxipted
