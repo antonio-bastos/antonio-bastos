@@ -1,4 +1,4 @@
-<img height="450" width="750" src="https://data.whicdn.com/images/302038322/original.gif" />
+<img height="250" width="550" src="https://data.whicdn.com/images/302038322/original.gif" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
