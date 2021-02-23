@@ -3,7 +3,7 @@
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
 Hey, I'm Scxipted also known as Antonio/Tony. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
-Just an average portuguese developer, nothing special. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />    
+Just an average portuguese developer. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />    
 Profile Picture by [Guweiz](https://www.deviantart.com/guweiz/gallery) <img height="20" width="20" src="https://emoji.gg/assets/emoji/8355_blobartist.png" />            
  
 Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
