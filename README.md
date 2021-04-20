@@ -34,7 +34,6 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 For any inquiries or questions, drop me a message:
  
 - <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/1821_roblox_squircle_icon.png" /> Devforum: Scxipted
 
 Most active on:
 
