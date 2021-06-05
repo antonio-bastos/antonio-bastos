@@ -1,4 +1,4 @@
-<img height="150" width="450" src="https://media1.tenor.com/images/214f9c188e78e793fb4406ad7ab1a252/tenor.gif?itemid=14885028" />
+<img height="150" width="650" src="https://prnt.sc/149npxb" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
