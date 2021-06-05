@@ -1,4 +1,4 @@
-<img height="150" width="650" src="https://prnt.sc/149npxb" />
+<img height="150" width="650" src="https://cdn.discordapp.com/attachments/831022454872211476/850872760682414132/ATE0iOt6XBIrAAAAAElFTkSuQmCC.png" />
  
 ## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
