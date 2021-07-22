@@ -37,4 +37,4 @@ For any inquiries or questions, drop me a message:
 
 Most active on:
 
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#3387
+- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#1337
