@@ -16,8 +16,8 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
  
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> JavaScript,
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> HTML5/CSS,
-- <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> Python, 
-- <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/lua.svg" /> LuaU.
+- <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> Python
+- and .json of course
  
  <details>
  <summary>
