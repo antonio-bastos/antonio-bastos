@@ -1,8 +1,8 @@
 <img height="150" width="650" src="https://cdn.discordapp.com/attachments/831022454872211476/850872760682414132/ATE0iOt6XBIrAAAAAElFTkSuQmCC.png" />
  
-## Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
+## Antonio <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
  
-Hey, I'm Scxipted also known as Antonio/Tony. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
+Hey, I'm Antonio! <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
 Just an average portuguese developer. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />    
 Profile Picture by Sayu.
  
@@ -37,4 +37,4 @@ For any inquiries or questions, drop me a message:
 
 Most active on:
 
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonyai#1337
+- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonychiwa#1337
