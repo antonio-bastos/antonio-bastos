@@ -12,7 +12,8 @@
 - Student > Hobbyist Developer
 - Pronouns > He / Him
 
-<img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: antonio.js#2112
+Twitter: @Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" />
+Discord: antonio.js#2112 <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" /> 
 
 #
  
