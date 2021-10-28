@@ -14,8 +14,8 @@
 #
 
 > Twitter: @Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" />                   
-> Discord: antonio.js#2112 <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" /> 
-
+> Discord: antonio.js#2112 <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />                  
+> Polywork: antoniobastos  <img height="20" width="20" src="https://photos.angel.co/startups/i/7453176-7fc8803bec974ee66050c137970c8de8-medium_jpg.jpg?buster=1590678376" />     
 #
  
 ### Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
@@ -31,5 +31,9 @@
 > JavaScript <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />                  
 > HTML5/CSS <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />                    
 > Python <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />                    
+
+#
+
+### GitHub Statistics
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
