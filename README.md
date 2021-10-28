@@ -26,7 +26,7 @@
  
 ### Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/1169_ablobwobwork.gif" />
  
-- I genuinely enjoy learning new programming languages, I currently specialise in:                                                                                                    
+- I genuinely enjoy learning new programming languages, I currently specialise in:                                                                                               
  
 > JavaScript <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />                  
 > HTML5/CSS <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />                    
