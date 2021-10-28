@@ -12,6 +12,8 @@
 - Student > Hobbyist Developer
 - Pronouns > He / Him
 
+<img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: antonio.js#2112
+
 #
  
 Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
@@ -30,15 +32,3 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 #
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
-
-#
-
-## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/8200_happytalkingonthephone.png" /> 
- 
-For any inquiries or questions, drop me a message:
- 
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" /> Twitter: @Scxipted
-
-Most active on:
-
-- <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />   Discord: tonychiwa#2112
