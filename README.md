@@ -1,5 +1,5 @@
 # Hey, I'm Antonio! <img height="45" width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
-
+ 
 <a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
     <img
       width="256"
@@ -7,7 +7,8 @@
       src="https://api.daily.dev/devcards/b8632a518c1143cfa11f02c6062804de.png?r=008"
     />
 </a>
-
+ 
+ 
 - Student > Hobbyist Developer
 - Pronouns > He / Him
 
@@ -25,16 +26,14 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" /> HTML5/CSS,
 - <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" /> Python
 - and .json of course
- 
- <details>
- <summary>
-  GitHub Statistics <img height="20" width="20" src="https://emoji.gg/assets/emoji/7130_kscrown.gif" />
- </summary>
+
+#
 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
----
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
-</details>
+
+
+#
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/8200_happytalkingonthephone.png" /> 
  
