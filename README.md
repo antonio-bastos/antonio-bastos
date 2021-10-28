@@ -1,4 +1,4 @@
-# Hey, I'm Antonio! <img height="65" width="65" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
+# Hey, I'm Antonio! <img height="45" width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
 
 <a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
     <img
