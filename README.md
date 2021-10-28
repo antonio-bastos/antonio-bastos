@@ -1,3 +1,5 @@
+## Hey, I'm Antonio! <img height="50" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
+
 <a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
     <img
       width="256"
@@ -6,11 +8,10 @@
     />
 </a>
 
-## Hey, I'm Antonio! <img height="50" width="50" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
-# 🇵🇹 & 🇿🇦
-
 - Student > Hobbyist Developer
 - Pronouns > He / Him
+
+#
  
 Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
  
