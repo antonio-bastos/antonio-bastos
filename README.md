@@ -1,7 +1,13 @@
-<img height="150" width="650" src="https://cdn.discordapp.com/attachments/831022454872211476/850872760682414132/ATE0iOt6XBIrAAAAAElFTkSuQmCC.png" />
- 
 ## Antonio <img height="20" width="20" src="https://emoji.gg/assets/emoji/6989_cat_smile.png" />
- 
+
+<a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/b8632a518c1143cfa11f02c6062804de.png?r=008"
+    />
+  </a>
+
 Hey, I'm Antonio! <img height="20" width="20" src="https://emoji.gg/assets/emoji/2112_wave_animated.gif" />  
 Just an average portuguese developer. <img height="20" width="20" src="https://emoji.gg/assets/emoji/2800_portugalparrot.gif" />    
 Profile Picture by Sayu.
@@ -28,8 +34,6 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 ---
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 </details>
-
- <a href="https://app.daily.dev/Scxipted"><img src="https://api.daily.dev/devcards/b8632a518c1143cfa11f02c6062804de.png?r=008" width="200" alt="Antonio's Dev Card"/></a>
 
 ## Get In Contact <img height="20" width="20" src="https://emoji.gg/assets/emoji/8200_happytalkingonthephone.png" /> 
  
