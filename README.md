@@ -1,8 +1,4 @@
-## Hey, I'm Antonio! <img 
-    height="20" 
-    width="20" 
-    src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" 
-/>
+## Hey, I'm Antonio! <img height="20" width="20" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
 
 - Student > Hobbyist Developer
 - Pronouns > He / Him
