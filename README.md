@@ -29,9 +29,7 @@ I genuinely enjoy learning new programming languages, I currently specialise in:
 
 #
 
-[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Scxipted)
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
-
 
 #
 
