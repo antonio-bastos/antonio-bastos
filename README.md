@@ -14,7 +14,7 @@
 #
 
 > Twitter: @Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" />                   
-> Discord: antonio.js#2112 <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />                  
+> Discord: tonychiwa <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />                  
 > Polywork: antoniobastos  <img height="20" width="20" src="https://photos.angel.co/startups/i/7453176-7fc8803bec974ee66050c137970c8de8-medium_jpg.jpg?buster=1590678376" />     
 #
  
