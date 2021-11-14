@@ -33,7 +33,6 @@
 > Python <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />                    
 
 #
-
 ### GitHub Statistics
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
