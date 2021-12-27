@@ -11,6 +11,8 @@
 - Student > Hobbyist Developer
 - Pronouns > He / Him
 
+[test](https://twitter.com/home)
+
 #
 
 > Twitter: @Scxipted <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" />                   
