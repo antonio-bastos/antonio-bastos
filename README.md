@@ -12,9 +12,26 @@ Hey there, I'm Antonio, a devoted self-taught developer hobbyist currently resid
 
 #
 
-> Twitter: @antonio_bastoss <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" />                   
-> Discord: antonio#8587 <img height="20" width="20" src="https://emoji.gg/assets/emoji/2232_Cowboy132.gif" />                  
-> Polywork: antoniobastos  <img height="20" width="20" src="https://photos.angel.co/startups/i/7453176-7fc8803bec974ee66050c137970c8de8-medium_jpg.jpg?buster=1590678376" />     
+👇
+
+```javascript
+const contact = {
+    emails: {
+        personal: "me@scxipted.tech" | "scxipted@gmail.com"
+        },
+     socials: {
+          discord: "antonio#8587",
+          twitter: "@antonio_bastoss",
+          instagram: "@antoniobastos",
+          polywork: "@antoniobastos",
+          email: "me@scxipted.tech",
+     },
+     card: "https://scxipted.tech/social"
+}
+```
+
+👆
+
 #
  
 ### Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
