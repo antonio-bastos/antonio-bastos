@@ -1,4 +1,5 @@
-# Hey, I'm Antonio! 👋
+![image](https://user-images.githubusercontent.com/51927118/168916316-896fa9b9-6c79-4046-ab15-a1f933cb799b.png)
+
  
 <a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
     <img
@@ -8,15 +9,14 @@
     />
 </a>
  
-Hey there, I'm Antonio, a devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
+A devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
  
-### Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
- 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+vibin'+to%3A+)
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
-#
+### 👇
 
-👇
+#
 
 ```javascript
 const contact = {
@@ -35,19 +35,17 @@ const contact = {
 }
 ```
 
-👆
- 
-### Experience <img height="20" width="20" src="https://emoji.gg/assets/emoji/1169_ablobwobwork.gif" />
- 
-- I genuinely enjoy learning new programming languages, I currently specialise in:                                                                                               
- 
-> JavaScript <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />                  
-> HTML5/CSS <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />                    
-> Python <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />                    
-
 #
-### GitHub Statistics
+
+### 👆
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+specialising+in%3A)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme">
+#
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&width=500&lines=Check+out+this+meme+while+you're+here%3A)
+<img src='https://random-memer.herokuapp.com/' title="Meme" width="600" height="600">
