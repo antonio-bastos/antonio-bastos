@@ -1,4 +1,4 @@
-### Hey, I'm Antonio! <img height="45" width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" />
+## Hey, I'm Antonio! 👋
  
 <a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
     <img
@@ -8,8 +8,7 @@
     />
 </a>
  
-- Student > Hobbyist Developer
-- Pronouns > He / Him
+Hey there, I'm Antonio, a devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
 
 #
 
