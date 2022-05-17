@@ -10,6 +10,8 @@
  
 Hey there, I'm Antonio, a devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
 
+<img src='https://random-memer.herokuapp.com/' title="Meme">
+
 #
 
 > Twitter: @antonio_bastoss <img height="20" width="20" src="https://emoji.gg/assets/emoji/9463_twitter_squircle_icon.png" />                   
