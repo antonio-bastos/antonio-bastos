@@ -1,4 +1,4 @@
-## Hey, I'm Antonio! 👋
+# Hey, I'm Antonio! 👋
  
 <a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
     <img
@@ -9,8 +9,6 @@
 </a>
  
 Hey there, I'm Antonio, a devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
-
-#
  
 ### Currently vibin' to <img height="15" width="15" src="https://emoji.gg/assets/emoji/SpotifyLogo.png" /> 
  
