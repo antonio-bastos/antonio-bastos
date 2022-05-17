@@ -21,11 +21,11 @@ const contact = {
         professional: "me@scxipted.tech"
         },
      socials: {
-          discord: "antonio#8587",
-          twitter: "@antonio_bastoss",
-          instagram: "@antoniobastos",
-          polywork: "@antoniobastos",
-          email: "me@scxipted.tech",
+         discord: "antonio#8587",
+         twitter: "@antonio_bastoss",
+         instagram: "@antoniobastos",
+         polywork: "@antoniobastos",
+         email: "me@scxipted.tech",
      },
      card: "https://scxipted.tech/social"
 }
