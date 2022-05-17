@@ -17,7 +17,8 @@ Hey there, I'm Antonio, a devoted self-taught developer hobbyist currently resid
 ```javascript
 const contact = {
     emails: {
-        personal: "me@scxipted.tech" | "scxipted@gmail.com"
+        personal: "scxipted@gmail.com",
+        professional: "me@scxipted.tech"
         },
      socials: {
           discord: "antonio#8587",
