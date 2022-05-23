@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/51927118/168916316-896fa9b9-6c79-4046-ab15-a1f933cb799b.png)
 
  
-<a href="https://api.daily.dev/get?r=Scxipted" target="_blank">
+<a href="https://app.daily.dev/Scxipted" target="_blank">
     <img
       width="256"
       align="right"
