@@ -26,10 +26,9 @@ const contact = {
         },
      socials: {
          discord: "antonio#8587",
-         twitter: "@antonio_bastoss",
-         instagram: "@antoniobastos",
+         twitter: "@a_ntoniobastos",
+         instagram: "@a.ntoniobastos",
          polywork: "@antoniobastos",
-         email: "me@scxipted.tech",
      },
      card: "https://scxipted.tech/social"
 }
