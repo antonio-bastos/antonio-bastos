@@ -36,7 +36,8 @@ const contact = {
 
 #
 
-## 👆
+## 
+👆
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+specialising+in%3A)
 
