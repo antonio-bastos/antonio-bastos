@@ -14,8 +14,7 @@ A devoted self-taught developer hobbyist currently residing in Portugal; my fond
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+vibin'+to%3A+)
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
 
-## 👇
-
+👇
 #
 
 ```javascript
@@ -33,9 +32,6 @@ const contact = {
      card: "https://scxipted.tech/social"
 }
 ```
-
-#
-
 ## 
 👆
  
