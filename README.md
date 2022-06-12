@@ -8,8 +8,6 @@
       src="https://api.daily.dev/devcards/b8632a518c1143cfa11f02c6062804de.png?r=008"
     />
 </a>
-
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/399917319792361474.png" />
  
 A devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
  
@@ -37,6 +35,8 @@ const contact = {
 ```
 
 #
+
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/399917319792361474.png" />
 
 ## 👆
  
