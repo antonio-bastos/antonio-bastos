@@ -12,7 +12,7 @@
 A devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+vibin'+to%3A+)
-[![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/scxipted)
+[![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/k287660zgvjokrs3m4l0zqnh9)
 
 👇
 #
@@ -39,8 +39,8 @@ const contact = {
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![Github Statistics](https://github-readme-stats.vercel.app/api?username=Scxipted)](https://github.com/Scxipted)
-![Snake](https://github.com/scxipted/scxipted/blob/output/github-contribution-grid-snake.svg)
+[![Github Statistics](https://github-readme-stats.vercel.app/api?username=antonio-bastos)](https://github.com/Scxipted)
+![Snake](https://github.com/antonio-bastos/antonio-bastos/blob/output/github-contribution-grid-snake.svg)
 
 #
 
