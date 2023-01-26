@@ -9,7 +9,7 @@
     />
 </a>
  
-A devoted self-taught developer hobbyist currently residing in Portugal; my fondness for development lies in dreaming up thoughts and making them come true. I take significant consideration into the quality, experience and structure of the things I create. 
+As a self-taught developer hobbyist based in Portugal, I have a deep passion for development and the process of bringing ideas to life. I take great care in ensuring the quality, user experience, and overall structure of the projects I create are top-notch. Constantly learning and expanding my skills, I strive to push the boundaries of what is possible and create something truly unique and innovative. My goal is to continue honing my craft and creating projects that not only serve a purpose but also leave a lasting impact.
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+vibin'+to%3A+)
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/k287660zgvjokrs3m4l0zqnh9)
@@ -18,17 +18,17 @@ A devoted self-taught developer hobbyist currently residing in Portugal; my fond
 #
 
 ```javascript
-const contact = {
-    emails: {
-        personal: "scxipted@gmail.com",
-        professional: "n/a"
-        },
-     socials: {
-         twitter: "@a_ntoniobastos",
-         instagram: "@a.ntoniobastos",
-         polywork: "@antoniobastos",
-     },
-     card: "https://scxipted.tech/social"
+const Contact = {
+    Email: [
+        {Type: "Personal", Value: "scxipted@gmail.com"},
+        {Type: "Professional", Value: "n/a"}
+    ],
+    Social: [
+        {Type: "Twitter", Value: "@a_ntoniobastos"},
+        {Type: "Instagram", Value: "@a.ntoniobastos"},
+        {Type: "Polywork", Value: "@antoniobastos"}
+    ],
+    Card: "https://scxipted.tech/social"
 }
 ```
 ## 
