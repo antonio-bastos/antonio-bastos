@@ -21,10 +21,9 @@ A devoted self-taught developer hobbyist currently residing in Portugal; my fond
 const contact = {
     emails: {
         personal: "scxipted@gmail.com",
-        professional: "me@scxipted.tech"
+        professional: "n/a"
         },
      socials: {
-         discord: "antonio#8587",
          twitter: "@a_ntoniobastos",
          instagram: "@a.ntoniobastos",
          polywork: "@antoniobastos",
