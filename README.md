@@ -44,6 +44,3 @@ const Contact = {
 ![Snake](https://github.com/antonio-bastos/antonio-bastos/blob/output/github-contribution-grid-snake.svg)
 
 #
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&width=500&lines=Check+out+this+meme+while+you're+here%3A)
-<img src='https://random-memer.herokuapp.com/' title="Meme" width="600" height="600">
