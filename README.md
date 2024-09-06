@@ -22,7 +22,7 @@ I'm constantly learning and expanding my skills, I strive to push the boundaries
 ```javascript
 const Contact = {
     Email: [
-        {Type: "Personal", Value: "scxipted@gmail.com"},
+        {Type: "Personal", Value: "antoniobastos.za@gmail.com"},
         {Type: "Professional", Value: "n/a"}
     ],
     Social: [
