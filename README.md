@@ -23,14 +23,13 @@ I'm constantly learning and expanding my skills, I strive to push the boundaries
 const Contact = {
     Email: [
         {Type: "Personal", Value: "antoniobastos.za@gmail.com"},
-        {Type: "Professional", Value: "n/a"}
+        {Type: "Professional", Value: "antonio@simplicidade.pt"}
     ],
     Social: [
         {Type: "Twitter", Value: "@a_ntoniobastos"},
         {Type: "Instagram", Value: "@a.ntoniobastos"},
         {Type: "Polywork", Value: "@antoniobastos"}
-    ],
-    Card: "https://scxipted.tech/social"
+    ],"
 }
 ```
 ## 
