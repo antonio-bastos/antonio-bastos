@@ -9,9 +9,9 @@
     />
 </a>
  
-As a self-taught developer hobbyist based in Portugal, I have a deep passion for development and the process of bringing ideas to life. I take great care in ensuring the quality, user experience, and overall structure of the projects I create are top-notch. 
+A self-taught developer hobbyist from Portugal, I’m deeply passionate about development and bringing ideas to life. I take great care to ensure that the quality, user experience, and overall structure of my projects are top-notch.
 
-I'm constantly learning and expanding my skills, I strive to push the boundaries of what is possible and create something truly unique and innovative. My goal is to continue honing my craft and creating projects that not only serve a purpose but also leave a lasting impact.
+I’m always learning and expanding my skills, striving to push the boundaries of what’s possible to create something truly unique and innovative. My goal is to keep honing my craft and developing projects that not only serve a purpose but also leave a lasting impact.
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+vibin'+to%3A+)
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/k287660zgvjokrs3m4l0zqnh9)
