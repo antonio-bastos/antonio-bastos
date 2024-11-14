@@ -15,14 +15,15 @@ I'm a student as well as a self-taught developer from Portugal, I'm deeply passi
  
 I’m always learning and expanding my skills, striving to push the boundaries of what’s possible, to create something that's that truly leaves a lasting impact at the end of the day; you can accompany my journey & projects here on my github page!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+vibin'+to%3A+)
+#
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+listening+to%3A+)
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/k287660zgvjokrs3m4l0zqnh9)
 
-👇
 #
 
 ```javascript
-const Contact = {
+const contact = {
     Email: [
         {Type: "Personal", Value: "antoniobastos.za@gmail.com"},
         {Type: "Professional", Value: "antonio@simplicidade.pt"}
@@ -35,7 +36,6 @@ const Contact = {
 }
 ```
 ## 
-👆
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+specialising+in%3A)](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=25&color=33B9E6&lines=My+work+flow%3A)
  
