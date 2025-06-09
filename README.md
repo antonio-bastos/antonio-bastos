@@ -25,8 +25,8 @@ I’m always learning and expanding my skills, striving to push the boundaries o
 ```javascript
 const contact = {
     Email: [
-        {Type: "Personal", Value: "antoniobastos.za@gmail.com"},
-        {Type: "Professional", Value: "antonio@simplicidade.pt"}
+        {Type: "Personal", Value: "hello@antonio-bastos.com"},
+        {Type: "Simplicidade", Value: "antonio@simplicidade.pt"}
     ],
     Social: [
         {Type: "Instagram", Value: "@a.ntoniobastos"},
