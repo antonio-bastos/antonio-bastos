@@ -11,9 +11,9 @@
 
 Hey!
 
-I'm a student as well as a self-taught developer from Portugal, I'm deeply passionate about programming and the concept of bringing ideas to life.
+I'm António Bastos, a programming student from the Algarve, Portugal.
  
-I’m always learning and expanding my skills, striving to push the boundaries of what’s possible, to create something that's that truly leaves a lasting impact at the end of the day; you can accompany my journey & projects here on my github page!
+I spend most of my time learning how to build better software, usually by breaking things first. Outside of that, I'm either exploring new ideas to tinker with, or catching up with friends over coffee.
 
 #
 
@@ -26,12 +26,12 @@ I’m always learning and expanding my skills, striving to push the boundaries o
 const contact = {
     Email: [
         {Type: "Personal", Value: "hello@antonio-bastos.com"},
-        {Type: "Simplicidade", Value: "antonio@simplicidade.pt"}
+        {Type: "Chillwith.me", Value: "antonio@chillwith.me"}
     ],
     Social: [
         {Type: "Instagram", Value: "@a.ntoniobastos"},
         {Type: "Twitter", Value: "@a_ntoniobastos"},
-        {Type: "Polywork", Value: "@antoniobastos"}
+        {Type: "Linkedin", Value: "antónio-bastos"}
     ],"
 }
 ```
