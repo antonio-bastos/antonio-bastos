@@ -26,8 +26,6 @@
 <!-- spotify wrapper -->
 <h3><code>antonio@github ~ $ ./spotify.sh</code></h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&color=33B9E6&lines=Currently+listening+to%3A+)
-<br>
 [![Spotify](https://scxipted.vercel.app/api/spotify)](https://open.spotify.com/user/k287660zgvjokrs3m4l0zqnh9)
 
 <br>
