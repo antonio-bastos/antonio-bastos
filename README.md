@@ -31,56 +31,6 @@
 <br>
 <br>
 
-<!-- stack & technologies -->
-<h3><code>antonio@github ~ $ ./stack.sh</code></h3>
-
-<p>
-  <b>Scripting &amp; Game Dev</b><br>
-  <a href="https://www.lua.org"><img src="https://img.shields.io/badge/Lua-8_Years-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /></a>
-</p>
-
-<p>
-  <b>VCS &amp; Pipelines</b><br>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-7_Years-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<p>
-  <b>Web &amp; Frontend Architecture</b><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-5_Years-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5_%2F_CSS3-5_Years-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 / CSS3" /></a>
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-2_Years-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-2_Years-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-2_Years-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-1_Year-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-</p>
-
-<p>
-  <b>Backend, Runtime &amp; Cloud</b><br>
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-2_Years-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-2_Years-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  <a href="https://render.com"><img src="https://img.shields.io/badge/Render-1_Year-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /></a>
-  <a href="https://resend.com"><img src="https://img.shields.io/badge/Resend-1_Year-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" /></a>
-</p>
-
-<p>
-  <b>Databases &amp; BaaS</b><br>
-  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-2_Years-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-1_Year-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-1_Year-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
-  <a href="https://planetscale.com"><img src="https://img.shields.io/badge/PlanetScale-1_Year-000000?style=for-the-badge&logo=planetscale&logoColor=white" alt="PlanetScale" /></a>
-  <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/SQL_%2F_PL%2FpgSQL-1_Year-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PL/pgSQL" /></a>
-</p>
-
-<p>
-  <b>Systems, OOP &amp; Foundations</b><br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-1_Year-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>
-  <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-1_Year-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-1_Year-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
-</p>
-
-<br>
-<br>
-
 <!-- terminal links & contact -->
 <h3><code>antonio@github ~ $ ./links.sh</code></h3>
 
